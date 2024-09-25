@@ -1,5 +1,10 @@
-# 🦭 Seraphinerss
+# 🦭 seraphinerss
 ## Hi there 👋
+I'm a **biologist** with a newfound interest in computational tools. Currently, I'm sharpening my coding skills through online courses.
+
+-------
+<!--
+## Reach me out
 
 <!--
 **seraphinerss/seraphinerss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
