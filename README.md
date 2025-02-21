@@ -1,8 +1,3 @@
-# 🦭 seraphinerss
-## Hi there 👋
-I'm a **biologist** with a newfound interest in computational tools. Currently, I'm sharpening my coding skills through online courses.
-
--------
 <!--
 ## Reach me out
 
